@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sSideri
+- 👋 Hi, I’m Pild1
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GF
